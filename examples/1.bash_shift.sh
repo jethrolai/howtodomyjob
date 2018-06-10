@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # This example is to show you what shift command does in Bash
-# Run `./bash_shift.sh a b c d` or any arbitrary number of arguments you would like to pass in.
+# Run `./1.bash_shift.sh a b c d` or any arbitrary number of arguments you would like to pass in.
 
 RED='\033[1;31m'
 BLUE='\033[1;34m'

@@ -1,5 +1,7 @@
-# Compiled class file
+# Compiled java class file
 *.class
+.classpath
+.project
 
 # Log file
 *.log
