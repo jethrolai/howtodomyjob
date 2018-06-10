@@ -2,6 +2,7 @@
 
 # This example is to show you what shift command does in Bash
 # Run `./2.shell_progress_bar.sh {optional: number of iterations}`
+# TODO: make the main logic a function for future import
 
 RED='\033[1;31m'
 BLUE='\033[1;34m'
