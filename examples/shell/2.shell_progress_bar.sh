@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This example is to show you what shift command does in Bash
+# This example is to build a simple progress bar in shell
 # Run `./2.shell_progress_bar.sh {optional: number of iterations}`
 # TODO: make the main logic a function for future import
 

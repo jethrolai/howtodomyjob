@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# This script contains a list of common variables and functions for import. 
+
 NO_COLOR='\033[0m'
 
 BLACK='\033[0;30m'

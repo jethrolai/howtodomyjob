@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This example is to show you what shift command does in Bash
+# This example is to show you how to color and style the output text
 # Run `./4.shell_coloring.sh`
 
 ## see ./examples/shell/utils.sh for more color codes

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This example is to show you what shift command does in Bash
+# This example is to build a simple in place spinner
 # Run `./3.shell_spinning.sh {optional. number of iterations} {optional. refresh rate}`
 
 source ./*/utils.sh
