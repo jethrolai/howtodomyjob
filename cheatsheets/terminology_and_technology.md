@@ -1,3 +1,0 @@
-- Thyemleaf: a modern server-side Java template engine for both web and standalone environments. Sort of like jsp
-- JSP: JavaServer Page
-- 
